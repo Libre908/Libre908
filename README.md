@@ -1,4 +1,4 @@
-### Hi, I'm Yibo Feng (冯怡博)
+### Hi, I'm Yibo Feng 
 
 M.Sc. student in AI & Robotics at **The Chinese University of Hong Kong, Shenzhen**.
 I work on **LLM agents and agentic reinforcement learning** — long-horizon interaction, agent memory, and process-level credit assignment.
